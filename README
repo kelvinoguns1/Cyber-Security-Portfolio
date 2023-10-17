@@ -1,23 +1,19 @@
-I appreciate you looking at my portfolio. As a junior cyber security analyst, I'm determined to use my knowledge and enthusiasm to protect people's and organisations' data and assets
-against online threats, vulnerabilities, and risks.
-In the past 8 Months, I have developed a deep understanding of cybersecurity principles, frameworks,
-controls, and best practices. My most recent educational background includes a Graduate Certificate in
-Cyber Security Analytics from Mohawk College where I honed my analytical and problem-solving
-abilities. I have also taken and completed relevant coursework in network security, ethical hacking, risk
-assessment, asset management, identity and access management, and security controls which has
-equipped me with the technical knowledge essential for success in this role.
+I appreciate you looking at my portfolio. As a Cyber Security Analyst | Incident Response Specialist, I'm determined to use my knowledge, enthusiasm, and problem solving skills to protect people's and organisations' data and assets
+against online/physical/hybrid threats, vulnerabilities, and risks.
+Overtime, my exposure to projects and labs have given me in-depth understanding of Cyber Security Domains, Controls, Frame-works, Principles, Guidelines, and Standards. 
 
-My experience with group projects and labs exposed me to hands-on cybersecurity challenges and real-
-life cybersecurity threats. During my study and practice, I had the opportunity to:
+• My go-to Network Scan tools: Nmap, netstat/netcat, Wireshark, Burp Suite, SolarWinds Network Performance Monitor.
+• My go-to System Scan tools: Microsoft Baseline Security Analyzer(MBSA), Syslog-ng, Windows Security and Event Logs. 
+• My go-to Forensics tools: dd, FTK Imager.
+• Operating Systems: Windows, Linux.
+• Programming Languages: C/C++, C# (Junior level), Python (Junior Level).
+• Can develop POC code if required. 
 
-1. Monitor network traffic and identify potential threats as well as promptly addressing security
-incidents.
-2. Conduct vulnerability assessment and implement security patches to mitigate risks.
-3. Developed playbooks and incident response plans to ensure a rapid and effective response to
-security breaches.
-My strong analytical mindset, attention to detail, and ability to stay up-to-date with emerging
-cybersecurity trends makes me a valuable asset to any team. I am also proficient in various cyber
-security tools and technologies, including; Splunk, Chronicle, Wireshark, and network packet sniffers.
-I look forward to the possibility of further discussing my background and how I can contribute to the security
-posture and success of any Organization in need of my expertise and skills.
-Please feel free to contact me at +1 437 655 5294 or Kelvinoguns1@gmail.com to schedule an interview.
+Task performed in Cyber Security: 
+• Monitor network traffic, system logs, and security alerts to detect and respond to suspicious or malicious activities using SIEM, IDS and IPS tools. 
+• Investigate and analyze security incidents, and data breaches to determine the extent of the damage and take appropriate remediation/mitigation actions. And also recommend new security tools and technology to enhance Defense-In-Depth.  
+• Where and when necessary, develop, update, and enforce security policies, procedures, and standards to ensure compliance with industry regulations and best practices (e.g. PCI DSS, NIST.)
+• Configure and monitor firewalls and IPS to ensure Confidentiality, Integrity, and Availability.
+• Analyze malware samples to understand their behavior, capabilities, and potential impact on critical assets.
+• Prepare and present regular reports on incidents, risk assessments, security awareness and training, and threat intelligence. 
+• MANDATORY: Educate/train end-users about cyber security best practices and raise awareness about social engineering.
