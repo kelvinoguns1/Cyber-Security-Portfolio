@@ -5,6 +5,8 @@ Overtime, my exposure to projects and labs have given me in-depth understanding 
 • My go-to Network Scan tools: Nmap, netstat/netcat, Wireshark, Burp Suite, SolarWinds Network Performance Monitor.
 • My go-to System Scan tools: Microsoft Baseline Security Analyzer(MBSA), Syslog-ng, Windows Security and Event Logs. 
 • My go-to Forensics tools: dd, FTK Imager.
+• FireWall: pfsense
+• SIEM: Splunk
 • Operating Systems: Windows, Linux.
 • Programming Languages: C/C++, C# (Junior level), Python (Junior Level).
 • Can develop POC code if required. 
@@ -12,7 +14,7 @@ Overtime, my exposure to projects and labs have given me in-depth understanding 
 Task performed in Cyber Security: 
 • Monitor network traffic, system logs, and security alerts to detect and respond to suspicious or malicious activities using SIEM, IDS and IPS tools. 
 • Investigate and analyze security incidents, and data breaches to determine the extent of the damage and take appropriate remediation/mitigation actions. And also recommend new security tools and technology to enhance Defense-In-Depth.  
-• Where and when necessary, develop, update, and enforce security policies, procedures, and standards to ensure compliance with industry regulations and best practices (e.g. PCI DSS, NIST.)
+• Where and when necessary, develop, update, and enforce security policies, procedures, and standards to ensure compliance with industry regulations and best practices (e.g. PCI DSS, NIST RMF & CSF.)
 • Configure and monitor firewalls and IPS to ensure Confidentiality, Integrity, and Availability.
 • Analyze malware samples to understand their behavior, capabilities, and potential impact on critical assets.
 • Prepare and present regular reports on incidents, risk assessments, security awareness and training, and threat intelligence. 
